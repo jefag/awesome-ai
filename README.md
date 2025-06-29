@@ -10,6 +10,7 @@ A repo for links to projects that are building DX AI tooling...
 
 ## Terminal First AI Tools
 
+- [Claude-Code](https://www.anthropic.com/claude-code)
 - [plandex](https://github.com/plandex-ai/plandex)
 - [aider](https://github.com/Aider-AI/aider)
 - [parllama](https://github.com/paulrobello/parllama)
